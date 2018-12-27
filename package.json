@@ -1,0 +1,17 @@
+{
+  "name": "altai_autosize",
+  "title": "Altai Autosize",
+  "version": "1.0.7",
+  "description": "Automatically adjust textarea height to fit text.",
+  "main": "dist/altai_autosize.js",
+  "dependencies": {
+    "jquery": "^3.0",
+    "autosize": "^4.0"
+  },
+  "repository": {
+    "url": "https://github.com/iigethr/altai_autosize",
+    "type": "git"
+  },
+  "author": "Team IIGETHR <wearesocial@iigethr.com>",
+  "license": "MIT"
+}
